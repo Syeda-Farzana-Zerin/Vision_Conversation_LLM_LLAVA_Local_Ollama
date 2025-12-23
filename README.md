@@ -12,7 +12,7 @@ This app provides:
 
 ---
 ## 📸 App Preview
-Below is a screenshot of the app interface:
+
 ![App Screenshot](screenshot.png)
 
 ## 🚀 Features
