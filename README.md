@@ -41,17 +41,16 @@ Runs locally via **Ollama**, ensuring:
 ```bash
 pip install streamlit pillow
 
-
-2. Install Ollama (if not installed)
-
+### 2. Install Ollama (if not installed)
 Download for Windows, macOS, or Linux:
 https://ollama.com/
 
 
+### 1. Install Python packages
 3. Pull the LLaVA model
 ollama pull llava
 
-▶️ Running the App
+##▶️ Running the App
 
 In the project directory, run:
 
