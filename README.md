@@ -33,12 +33,9 @@ Runs locally via **Ollama**, ensuring:
 - Faster inference  
 - Works offline  
 
----
-
 ## 🛠 Requirements
 
 ### 1. Install Python packages
-```bash
 pip install streamlit pillow
 
 ### 2. Install Ollama (if not installed)
@@ -46,13 +43,9 @@ Download for Windows, macOS, or Linux:
 https://ollama.com/
 
 
-### 1. Install Python packages
-3. Pull the LLaVA model
+### Pull the LLaVA model
 ollama pull llava
 
-##▶️ Running the App
-
-In the project directory, run:
-
+## ▶️ Running the App
 streamlit run VisionLLM_Image.py
 
